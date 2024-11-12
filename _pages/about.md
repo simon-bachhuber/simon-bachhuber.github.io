@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), focusing on plug-and-play ML-based methods for state estimation and motion control. A vital part of my work is to develop solutions that eliminate the need for expert knowledge to identify, select, and configure suitable methods; solutions that are less restrictive and simultaneously more accessible!
+I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), developing plug-and-play, ML-based methods for state estimation and motion control. I develop solutions that eliminate the need for expert knowledge to identify, select, and configure suitable methods; solutions that are less restrictive and simultaneously more accessible!
 
-<div style="display: flex; font-size: 0.92em;">
+<div style="display: flex; font-size: 1em;">
 <div style="flex: 1; padding: 10px;">
     For example, Inertial Motion Tracking (IMT) uses wearable inertial sensors to estimate the motion of humans and robots. Unfortunately, current methods require careful selection and precise calibration; effectively, IMT users must be IMT experts!<br><br>
     <a href="https://openreview.net/forum?id=h2C3rkn0zR" target="_blank">RING</a> is a single neural network that achieves IMT for a broad range of systems and without calibration efforts.
@@ -29,7 +29,7 @@ I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), focusin
     <p><em>Video: RING's ability, before and after training, to predict the pose (visualized in blue) of kinematic chains from inertial data (IMUs are orange).</em></p>
 </div>
 ---
-My research also focuses on developing plug-and-play motion control methods that enable systems to autonmously learn to perform agile motions.
+My research also focuses on developing plug-and-play motion control methods that enable systems to autonomously learn to perform agile motions.
 <div style="text-align: center; margin-top: -60px;">
   <video width="640" height="480" controls>
     <source src="https://simon-bachhuber.github.io/files/soft_robot_control.mp4" type="video/mp4">
