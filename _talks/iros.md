@@ -1,5 +1,5 @@
 ---
-title: "Conference Talk on Soft Pneumatic Actuator Control"
+title: "Poster Presentation on Soft Pneumatic Actuator Control"
 collection: talks
 type: "Talk"
 permalink: /talks/cdc
