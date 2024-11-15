@@ -22,7 +22,7 @@ I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), develop
 </div>
 </div>
 <div style="text-align: center;">
-  <video width="640" height="480" controls>
+  <video style="max-width: 100%; height: auto;" controls>
     <source src="https://simon-bachhuber.github.io/files/sidebyside_with_labels.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -32,7 +32,7 @@ I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), develop
 ---
 My research also focuses on developing plug-and-play motion control methods that enable systems to autonomously learn to perform agile motions.
 <div style="text-align: center; margin-top: -60px;">
-  <video width="640" height="480" controls>
+  <video style="max-width: 100%; height: auto;" controls>
     <source src="https://simon-bachhuber.github.io/files/soft_robot_control.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
