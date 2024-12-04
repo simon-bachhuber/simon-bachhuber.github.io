@@ -9,6 +9,11 @@ redirect_from:
 
 I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), developing plug-and-play, ML-based methods for state estimation and motion control. I develop solutions that eliminate the need for expert knowledge to identify, select, and configure suitable methods; solutions that are less restrictive and simultaneously more accessible!
 
+![gait-example](https://simon-bachhuber.github.io/files/gait_demo.gif)
+<div style="text-align: center;">
+<p><em>Animation: Gait motion tracking using inertial sensors.</em></p>
+</div>
+
 <div style="display: flex; font-size: 1em;">
 <div style="flex: 1; padding: 10px;">
     For example, Inertial Motion Tracking (IMT) uses wearable inertial sensors to estimate the motion of humans and robots. Unfortunately, current methods require careful selection and precise calibration; effectively, IMT users must be IMT experts!<br><br>
