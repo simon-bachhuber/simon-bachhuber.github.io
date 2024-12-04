@@ -20,7 +20,7 @@ I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), develop
     <a href="https://openreview.net/forum?id=h2C3rkn0zR" target="_blank">RING</a> is a single neural network that achieves IMT for a broad range of systems, without relying on magnetometers and without calibration efforts. RING receives all available raw IMU data that are attached to the system and predicts the pose, i.e., the orientations of all bodies in the system.
 </div>
 <div style="flex: 1; padding: 10px;">
-<div style="text-align: center; margin-bottom: -70px; margin-top: -10px;">
+<div style="text-align: center; margin-bottom: 0px; margin-top: 0px;">
     <img src="https://simon-bachhuber.github.io/files/IMG_6607_nobg.png" alt="Image not found" width="150"/>
     <p><em>Figure: Motion tracking with wearable IMUs.</em></p>
 </div>
@@ -36,7 +36,8 @@ I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), develop
 
 ---
 My research also focuses on developing plug-and-play motion control methods that enable systems to autonomously learn to perform agile motions.
-<div style="text-align: center; margin-top: -60px;">
+
+<div style="text-align: center; margin-top: 0px;">
   <video style="max-width: 100%; height: auto;" controls>
     <source src="https://simon-bachhuber.github.io/files/soft_robot_control.mp4" type="video/mp4">
     Your browser does not support the video tag.
