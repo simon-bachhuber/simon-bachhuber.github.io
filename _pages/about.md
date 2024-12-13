@@ -29,7 +29,7 @@ I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), develop
 
 ![gait-example](https://simon-bachhuber.github.io/files/imt_demo.gif)
 <div style="text-align: center; margin-top: -10px;">
-<p><em>Animation: A single, plug-and-play method is used -- without any calibration or configuration -- for tracking of both the knee joint (left side) and shoulder joint (right side).</em></p>
+<p><em>Animation: Plug-and-play method tracking the knee joint (left) and shoulder joint (right) without magnetometer, calibration, or configuration.</em></p>
 </div>
 
 <div style="text-align: center;">
