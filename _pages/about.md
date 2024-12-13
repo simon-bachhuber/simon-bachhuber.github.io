@@ -10,8 +10,8 @@ redirect_from:
 I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), developing plug-and-play, ML-based methods for state estimation and motion control. I develop solutions that eliminate the need for expert knowledge to identify, select, and configure suitable methods; solutions that are less restrictive and simultaneously more accessible!
 
 ![gait-example](https://simon-bachhuber.github.io/files/gait_demo.gif)
-<div style="text-align: center;">
-<p><em>Animation: Gait motion tracking using inertial sensors.</em></p>
+<div style="text-align: center; margin-top: -10px;">
+<p><em>Animation: Gait motion tracking using inertial sensors (visualised with orange boxes). The predicted pose (blue) accurately tracks the pose of the system.</em></p>
 </div>
 
 <div style="display: flex; font-size: 1em;">
@@ -26,6 +26,12 @@ I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), develop
 </div>
 </div>
 </div>
+
+![gait-example](https://simon-bachhuber.github.io/files/imt_demo.gif)
+<div style="text-align: center; margin-top: -10px;">
+<p><em>Animation: A single, plug-and-play method is used -- without any calibration or configuration -- for tracking of both the knee joint (left side) and shoulder joint (right side).</em></p>
+</div>
+
 <div style="text-align: center;">
   <video style="max-width: 100%; height: auto;" controls>
     <source src="https://simon-bachhuber.github.io/files/sidebyside_with_labels.mp4" type="video/mp4">
