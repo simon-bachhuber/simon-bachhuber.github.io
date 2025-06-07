@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a member of [IMES](https://www.imes.uni-hannover.de/en/), developing plug-and-play, ML-based methods for state estimation and motion control. I develop solutions that eliminate the need for expert knowledge to identify, select, and configure suitable methods; solutions that are less restrictive and simultaneously more accessible!
+I am currently a System Engineer at [KEEQuant](https://www.keequant.com/), working on quantum cryptography and quantum key distribution systems. Before, i was a researcher at LUH (University of Hanover) and FAU (University of Erlangen), developing plug-and-play, ML-based methods for state estimation and motion control. I want to achieve solutions that eliminate the need for expert knowledge to identify, select, and configure suitable methods; solutions that are less restrictive and simultaneously more accessible!
 
 ![gait-example](https://simon-bachhuber.github.io/files/gait_demo.gif)
 <div style="text-align: center; margin-top: -10px;">
